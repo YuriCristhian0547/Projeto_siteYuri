@@ -1,5 +1,4 @@
-# Projeto_siteYuri
-Projeto de um site utilizando HTML + CSS com Códigos simples  
+# Projeto_siteYuri 
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -24,3 +23,4 @@ Projeto de um site utilizando HTML + CSS com Códigos simples
     <script src="script.js"></script>
 </body>
 </html>
+
